@@ -336,9 +336,12 @@ an odde space containing 3 of the foresaide de<g ref="char:EOLhyphen"/>grees, th
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
-            <figure>
-               <head>Here followeth the Mariners Quadrant.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:4852:17"/>
+               <figure>
+                  <head>Here followeth the Mariners Quadrant.</head>
+               </figure>
+            </p>
          </div>
          <div type="part">
             <pb facs="tcp:4852:18"/>
